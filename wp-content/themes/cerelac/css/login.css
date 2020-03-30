@@ -1,0 +1,38 @@
+body{
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.5), 
+        rgba(0, 0, 0, 0.5)
+        ), url('../img/slide3.jpg');
+    background-size: cover;
+}
+
+.login h1 a {
+    background-image: url('../img/kah-logo.png');
+    border-radius: 0%;
+    height: 110px;
+    width: 215px;
+    background-size: 218px;
+}
+
+.login form {
+    background-color: rgba(67,78,90,0.6);
+    border-radius: 5%;
+    width: 300px;
+    
+}
+
+.login label {
+    color: white;
+   
+}
+
+.login form .input{
+    background-color: rgba(67,78,90,0.0);
+    border-radius: 10px;
+    padding-left: 10px;
+    color: white;
+}
+
+.login #nav a,.login #backtoblog a{
+    color: white;
+}

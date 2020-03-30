@@ -1,0 +1,165 @@
+/*===========================
+  Theme: Fun Time
+============================ */
+/*________  Blue________  */
+
+footer,
+.nav-pills>li>a,
+.nav.nav-tabs>li>a,
+.navbar-custom ul.nav ul.dropdown-menu,
+.pricing-palden .pricing-deco,
+.panel-heading a.collapsed,
+.service h4,
+.team-item:hover .team-caption,
+.gallery-thumb .link,
+.pagination>li>a, .pagination>li>span,
+.breadcrumb,
+.label-default,
+.pager li > a, .pager li > span
+{background-color:#34327C;}
+
+ h1,
+ a,
+.quote-test:before,
+.quote-test i,
+.quote-test small,
+#blog-page h6,
+#blog-page blockquote:before,
+#contact i,
+.latest-caption h4
+{color:#34327C;}
+
+#owl-about img,
+.team-item:hover img,
+.gallery-thumb:hover .overlay-mask,
+#call-to-action
+{border-color:#34327C;}
+
+/* SVG path */
+#deco-clouds path {
+	fill: #34327C;
+	stroke: #34327C;
+}
+
+/*________  Pink________  */
+
+h2,.btn,
+.btn-primary,
+.owl-theme .owl-dots .owl-dot span,
+.owl-theme .owl-dots .owl-dot span:before,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.owl-prev,.owl-next,
+.pager li>a:hover,
+.social-media a i,
+.back-to-top i:hover,
+.pagination>li>a:hover,
+.pagination>li>a:focus,
+.pager li > a:hover,
+.pager li > a:focus,
+.navbar-brand-centered:hover,
+.navbar-brand-centered:focus,
+.navbar-toggle:focus,
+.navbar-toggle:active,
+.navbar-toggle:hover,
+.navbar-custom ul.nav li a:hover,
+.navbar-custom .nav > .active > a,
+.navbar-custom ul.nav ul.dropdown-menu li a:hover,
+.navbar-custom ul.nav ul.dropdown-menu li a:focus,
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover,
+.pagination>.active>a, .pagination>.active>a:focus, 
+.nav-pills>li.active>a,
+.nav.nav-pills > li > a:focus,
+.nav.nav-pills > li > a:hover,
+.nav.nav-pills > li > .active,
+.nav.nav-tabs>li>a:hover,
+.nav.nav-tabs > li.active > a:hover,
+.nav.nav-tabs > li.active > a:focus,
+.nav.nav-tabs>li.active>a,
+.pricing-item:hover .pricing-deco,
+.blog-tags a:hover
+{background-color:#d12881;}
+
+a:hover, a:focus,
+.breadcrumb a:hover,
+.breadcrumb a:focus,
+.media-heading small,
+#about .media i,
+.latest-caption h4:hover
+{color:#d12881;}
+
+.btn{border-color:#d12881;}
+
+/*________  gradient________  */
+
+.img-effect {background: linear-gradient(-45deg, #d12881 0%,#EC9600 100%);}
+
+/*________  Yellow________  */
+
+h2:before,
+#about .media i:hover,
+footer i,
+.smaller.social-media a i:hover,
+footer a,
+.post-info i,
+.breadcrumb>.active,
+.gallery-thumb i:hover
+ {color:#EC9600;}
+ 
+.service:hover h4,
+.open>.dropdown-toggle.btn-primary:focus,
+.open>.dropdown-toggle.btn-primary:hover,
+.team-item .team-caption,
+.navbar-custom ul.nav ul.dropdown-menu li a,
+.panel-heading a,
+.panel-heading a:hover,
+.nav-pills .nav > li > a:focus ,
+.navbar-brand-centered,
+.navbar-header,
+.btn:hover,.btn:focus,
+.btn-primary:hover,
+.btn-primary:focus,
+.navbar-collapse,
+.owl-prev:hover, .owl-next:hover,
+.back-to-top i,
+#instafeed .likes,
+.social-media a i:hover,
+.blog-tags a,
+.date-category,
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover
+{background-color:#EC9600;}
+
+
+.team-item img,
+.elements h5,
+#layerslider,
+.btn:hover,.btn:focus,
+.blog.jumbotron,
+.comment,
+.header-text,
+.open>.dropdown-toggle.btn-default:focus, .open>.dropdown-toggle.btn-default:hover
+{border-color:#EC9600;}
+ 
+/*________  Secondary yellow________  */
+
+section.color-section,
+.blog-row,
+#activities .tab-content,
+.color_block,
+.cloud-divider,
+#blog-page blockquote,
+#layerslider,
+.comment,
+.table-striped,
+.dropdown-menu
+{background: #F3F0CF;}
+
+
+/* SVG Path */
+#deco-clouds1.head path {
+	fill: #F3F0CF;
+	stroke: #F3F0CF;
+}
+
+
+ 
